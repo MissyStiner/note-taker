@@ -9,6 +9,9 @@ https://github.com/MissyStiner/note-taker
 ## Application URL:
 https://git.heroku.com/note-taker316.git
 
+## Mock-Up
+![image](https://user-images.githubusercontent.com/85651869/141357964-ae7b63ac-6733-4c35-8b84-b907138b7814.png)
+
 ## User Story
 AS A small business owner<br>
 I WANT to be able to write and save notes<br>
@@ -28,7 +31,3 @@ WHEN I click on an existing note in the list in the left-hand column<br>
 THEN that note appears in the right-hand column<br>
 WHEN I click on the Write icon in the navigation at the top of the page<br>
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-
-## Mock-Up
-
-
