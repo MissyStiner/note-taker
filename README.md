@@ -5,7 +5,6 @@ This application can be used to write and save notes using an Express.js back en
 
 ## GitHub URL:
 https://github.com/MissyStiner/note-taker
-https://git.heroku.com/note-taker316.git
 
 ## Application URL:
 https://note-taker316.herokuapp.com/
